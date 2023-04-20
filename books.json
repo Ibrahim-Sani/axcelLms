@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e250c266-ef18-4ab1-9cc7-92502b69570f",
+    "Title": "React 16 ",
+    "Author": "Adam Boduch",
+    "datePublished": "2023-07-12",
+    "Description": "a promised never land were we all die",
+    "pageCount": "768",
+    "Genre": "anime",
+    "Publisher": "olokor",
+    "createdAt": "2023-01-21T13:25:49.884Z",
+    "updatedAt": "2023-04-20T00:44:06.552Z",
+    "bookID": "e250c266-ef18-4ab1-9cc7-92502b69570f",
+    "description": "Learn the 16 Essentials of building products with React",
+    "genre": "Software Engineering",
+    "publisher": "packt"
+  },
+  {
+    "id": "c4fa29a8-d7eb-4a12-8453-c78a1a5eff10",
+    "Title": "React Material-UI",
+    "Author": "Adam Boduch",
+    "datePublished": "2022-06-09",
+    "Description": "onyinye ",
+    "pageCount": "534",
+    "Genre": "trouble",
+    "Publisher": "olokor",
+    "createdAt": "2023-01-27T17:10:03.944Z",
+    "updatedAt": "2023-04-20T00:40:03.260Z",
+    "bookID": "c4fa29a8-d7eb-4a12-8453-c78a1a5eff10",
+    "description": "Develop modern-day applications by implementing Material Design principles in React using Material-UIKey FeaturesUse React components to build intuitive UI",
+    "genre": "trouble",
+    "publisher": "olokor"
+  },
+  {
+    "id": "bfa02559-b987-47a2-8940-f464a85bd3d1",
+    "Title": "React Native",
+    "Author": "Adam Boduch",
+    "datePublished": "2023-03-08",
+    "Description": "Sci-Fi",
+    "pageCount": "564",
+    "Genre": "Sci-Fi",
+    "Publisher": "Penguin",
+    "createdAt": "2023-03-27T15:49:59.393Z",
+    "updatedAt": "2023-04-20T00:42:03.129Z",
+    "bookID": "bfa02559-b987-47a2-8940-f464a85bd3d1",
+    "description": "Build Cool React Native Projects",
+    "genre": "Software Engineering",
+    "publisher": "Packt"
+  }
+]

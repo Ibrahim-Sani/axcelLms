@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cb24a943-a3e7-4e71-9579-531ce62677e2",
+    "UserName": "Emmanuel",
+    "Email": "neolokor1@gmail.com",
+    "password": "$2b$10$J4h1HsPYxRRIusFlyaagGusIIhZkmqVKu/fApEVx6qjVVpxdUhxHa",
+    "createdAt": "2023-01-25T15:19:43.747Z",
+    "updatedAt": "2023-01-25T15:19:43.747Z"
+  },
+  {
+    "id": "913b9b91-8838-46e8-8712-5c8810e817d2",
+    "UserName": "name",
+    "Email": "name1@yahoo.com",
+    "password": "$2b$10$/ZoYLsN5AeL2IXjLWDsrqOUck2aYnT/dk4bAJUTDxvzoxmJnYZ0rm",
+    "createdAt": "2023-01-27T00:26:04.759Z",
+    "updatedAt": "2023-01-27T00:26:04.759Z"
+  },
+  {
+    "id": "240d58d3-15e1-49d8-b56c-5565a755989b",
+    "UserName": "new",
+    "Email": "new@yahoo.com",
+    "password": "$2b$10$WotKK.Tpkx82GDWA21H/5ulnuI26SkQP.cSxsU9Afy6q43UVhRrTu",
+    "createdAt": "2023-01-27T17:03:27.898Z",
+    "updatedAt": "2023-01-27T17:03:27.898Z"
+  },
+  {
+    "id": "e6cb31e6-7381-470f-878a-92b589bbccb9",
+    "UserName": "success",
+    "Email": "starsuccess@gamil.com",
+    "password": "$2b$10$3zfSY.WYmxPTAuD9gQZyCeOqMytPti058W7DI9MAiT2X/Tnos8NN2",
+    "createdAt": "2023-03-21T23:55:42.726Z",
+    "updatedAt": "2023-03-21T23:55:42.726Z"
+  },
+  {
+    "id": "793a9485-9d08-4e0c-8d67-d18db2de3057",
+    "UserName": "",
+    "Email": "",
+    "password": "$2b$10$vtMvOue.f4qXyToLbqqU8e8MjI7URpoUidQVFVEwq2FnbgVWMh8ya",
+    "createdAt": "2023-03-25T17:06:09.796Z",
+    "updatedAt": "2023-03-25T17:06:09.796Z"
+  },
+  {
+    "id": "d0f09801-f600-4017-bb6b-1067a1472f63",
+    "UserName": "SID",
+    "Email": "datasid7@gmail.com",
+    "password": "$2b$10$spLhhGdxR3K9FVM5wPBIuuMDUrxhjSjy4m.81OBAFGs7cIV9IjZXy",
+    "createdAt": "2023-03-27T14:28:11.360Z",
+    "updatedAt": "2023-03-27T14:28:11.360Z"
+  },
+  {
+    "id": "c55c3368-f9de-4ec8-920d-667ebe2b3e61",
+    "UserName": "Oluwasegun",
+    "Email": "oluwasegun@gmail.com",
+    "password": "$2b$10$YQkYmvv15CzAwNTkdLx.yOoun2psdh38VctkDZFn4oor41/F08BCe",
+    "createdAt": "2023-03-27T15:48:02.343Z",
+    "updatedAt": "2023-03-27T15:48:02.343Z"
+  },
+  {
+    "id": "6e93b9e8-0232-449f-9323-4ec03946c812",
+    "UserName": "Sani",
+    "Email": "dibrahimsani@gmail.com",
+    "password": "$2b$10$imLHSpjkainCbqlke36bE.ayDZeZP87Cr7yFAo1t44J/IqAes6kR6",
+    "createdAt": "2023-04-19T23:56:46.530Z",
+    "updatedAt": "2023-04-19T23:56:46.530Z"
+  }
+]
