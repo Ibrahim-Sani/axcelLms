@@ -13,5 +13,9 @@ Axcel Library Management System  assists librarians in efficiently managing book
 - You can delete a book
 
 #### Run Project
+<<<<<<< HEAD
 
 - Run project with yarn run in root directory
+=======
+- yarn run
+>>>>>>> 917fcdd992a48d069625c3f497fe07c4ce943dad
