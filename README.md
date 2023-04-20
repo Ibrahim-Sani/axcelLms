@@ -11,3 +11,7 @@ Axcel Library Management System  assists librarians in efficiently managing book
 - You can view details of each book
 - You can edit a book.
 - You can delete a book
+
+#### Run Project
+
+- Run project with yarn run in root directory
